@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[44],{702:function(n,e,t){"use strict";t.r(e);t(9),t(39),t(44);var r={name:"InnerDataPage",components:{InnerData:function(){return t.e(19).then(t.bind(null,717))}},props:{msg:String}},o=t(77),component=Object(o.a)(r,(function(){return(0,this._self._c)("InnerData")}),[],!1,null,null,null);e.default=component.exports}}]);
